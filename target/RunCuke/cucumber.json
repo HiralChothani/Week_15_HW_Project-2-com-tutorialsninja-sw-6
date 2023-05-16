@@ -1,0 +1,254 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 9828028200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 12,
+        "name": "Verify that user place order successfully",
+        "description": "",
+        "id": "laptops-and-notebooks-test;verify-that-user-place-order-successfully",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1382696600,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I am on Laptops and notebooks page",
+            "match": {
+              "location": "LaptopsAndNotebooksPageSteps.iAmOnLaptopsAndNotebooksPage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 703767800,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I Select Sort By \"Price (High \u003e Low)\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Price (High \u003e Low)",
+                  "offset": 18
+                }
+              ],
+              "location": "LaptopsAndNotebooksPageSteps.iSelectSortBy(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2318214600,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I Select Product “MacBook”",
+            "match": {
+              "location": "LaptopsAndNotebooksPageSteps.iSelectProductMacBook()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 79767700,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I Verify the text “MacBook”",
+            "match": {
+              "location": "LaptopsAndNotebooksPageSteps.iVerifyTheTextMacBook()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 171525400,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "I Click on ‘Add To Cart’ button",
+            "match": {
+              "location": "LaptopsAndNotebooksPageSteps.iClickOnAddToCartButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 338848400,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "I Verify the message “Success: You have added MacBook to your shopping cart!”",
+            "match": {
+              "location": "LaptopsAndNotebooksPageSteps.iVerifyTheMessageSuccessYouHaveAddedMacBookToYourShoppingCart()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 726783800,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "I Click on link “shopping cart” display into success message",
+            "match": {
+              "location": "LaptopsAndNotebooksPageSteps.iClickOnLinkShoppingCartDisplayIntoSuccessMessage()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 82454500,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "I Verify the text \"Shopping Cart\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Shopping Cart",
+                  "offset": 19
+                }
+              ],
+              "location": "LaptopsAndNotebooksPageSteps.iVerifyTheText(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 38801300,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "I Verify the Product name \"MacBook\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "MacBook",
+                  "offset": 27
+                }
+              ],
+              "location": "LaptopsAndNotebooksPageSteps.iVerifyTheProductName(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "line": 22,
+            "name": "I Change Quantity \"2\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "2",
+                  "offset": 19
+                }
+              ],
+              "location": "LaptopsAndNotebooksPageSteps.iChangeQuantity(String)"
+            },
+            "keyword": "But "
+          },
+          {
+            "line": 23,
+            "name": "I Click on “Update” Tab",
+            "keyword": "And "
+          },
+          {
+            "line": 24,
+            "name": "I Verify the message “Success: You have modified your shopping cart!”",
+            "keyword": "And "
+          },
+          {
+            "line": 25,
+            "name": "I Verify the Total £737.45",
+            "keyword": "And "
+          },
+          {
+            "line": 26,
+            "name": "I Click on “Checkout” button",
+            "keyword": "And "
+          },
+          {
+            "line": 27,
+            "name": "I Verify the text “Checkout”",
+            "keyword": "And "
+          },
+          {
+            "line": 28,
+            "name": "I Verify the Text “New Customer”",
+            "keyword": "And "
+          },
+          {
+            "line": 29,
+            "name": "I Click on “Guest Checkout” radio button",
+            "keyword": "And "
+          },
+          {
+            "line": 30,
+            "name": "I Click on “Continue” tab",
+            "keyword": "And "
+          },
+          {
+            "line": 31,
+            "name": "I Fill the mandatory fields",
+            "keyword": "And "
+          },
+          {
+            "line": 32,
+            "name": "I Click on “Continue” Button",
+            "keyword": "And "
+          },
+          {
+            "line": 33,
+            "name": "I Add Comments About order into text area",
+            "keyword": "And "
+          },
+          {
+            "line": 34,
+            "name": "I Check the Terms \u0026 Conditions check box",
+            "keyword": "And "
+          },
+          {
+            "line": 35,
+            "name": "I Click on “Continue”",
+            "keyword": "And "
+          },
+          {
+            "line": 36,
+            "name": "user has placed order successfully",
+            "keyword": "Then "
+          },
+          {
+            "line": 37,
+            "name": "I Verify the message “Warning: Payment method required!”",
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 11,
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Laptops and notebooks Test",
+    "description": "As user I want to login into Tutorialninja website and check Laptops and notebooks page feature",
+    "id": "laptops-and-notebooks-test",
+    "keyword": "Feature",
+    "uri": " laptopsandnotebooks.feature"
+  }
+]

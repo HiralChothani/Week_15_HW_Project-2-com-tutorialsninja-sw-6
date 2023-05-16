@@ -1,0 +1,138 @@
+2023-05-14 15:05:600 INFO  HomePage :59 - mouse hover on desktop link and click
+2023-05-14 15:05:824 INFO  HomePage :46 - topMenu
+2023-05-14 15:05:36 INFO  HomePage :64 - get desktop text
+2023-05-14 16:05:447 INFO  HomePage :59 - mouse hover on desktop link and click
+2023-05-14 16:05:669 INFO  HomePage :46 - topMenu
+2023-05-14 16:05:736 INFO  HomePage :64 - get desktop text
+2023-05-14 16:05:444 INFO  HomePage :69 - mouse hover on laptop and notebooks link and click
+2023-05-14 16:05:605 INFO  HomePage :46 - topMenu
+2023-05-14 16:05:707 INFO  HomePage :74 - get laptops and notebooks text
+2023-05-14 16:05:731 INFO  HomePage :79 - mouse hover on components link and click
+2023-05-14 16:05:904 INFO  HomePage :46 - topMenu
+2023-05-14 16:05:768 INFO  HomePage :84 - get components text
+2023-05-14 16:05:66 INFO  HomePage :59 - mouse hover on desktop link and click
+2023-05-14 16:05:273 INFO  HomePage :46 - topMenu
+2023-05-14 16:05:320 INFO  DesktopPage :103 - select position ByZtoA
+2023-05-14 16:05:975 INFO  DesktopPage :108 - return ZtoA elements locator
+2023-05-14 16:05:17 INFO  DesktopPage :108 - return ZtoA elements locator
+2023-05-14 17:05:463 INFO  HomePage :59 - mouse hover on desktop link and click
+2023-05-14 17:05:711 INFO  HomePage :46 - topMenu
+2023-05-14 17:05:206 INFO  DesktopPage :115 - select Position By AtoZ
+2023-05-14 17:05:919 INFO  HomePage :59 - mouse hover on desktop link and click
+2023-05-14 17:05:155 INFO  HomePage :46 - topMenu
+2023-05-14 17:05:474 INFO  DesktopPage :115 - select Position By AtoZ
+2023-05-14 17:05:26 INFO  DesktopPage :120 - click on product HPLP3065
+2023-05-14 17:05:310 INFO  HomePage :59 - mouse hover on desktop link and click
+2023-05-14 17:05:508 INFO  HomePage :46 - topMenu
+2023-05-14 17:05:02 INFO  DesktopPage :115 - select Position By AtoZ
+2023-05-14 17:05:646 INFO  DesktopPage :120 - click on product HPLP3065
+2023-05-14 17:05:133 INFO  DesktopPage :130 - select date from Calender
+2023-05-14 17:05:807 INFO  DesktopPage :158 -  enter Quantity[[ChromeDriver: chrome on WINDOWS (6e6884c38781b688ddde0a88db37e991)] -> xpath: //input[@id='input-quantity']]
+2023-05-14 17:05:896 INFO  DesktopPage :163 - click on add to cart
+2023-05-14 17:05:981 INFO  DesktopPage :168 - get success text
+2023-05-14 17:05:365 INFO  DesktopPage :173 - click on shopping cart
+2023-05-14 17:05:515 INFO  DesktopPage :178 - get shopping cart text
+2023-05-14 17:05:121 INFO  HomePage :59 - mouse hover on desktop link and click
+2023-05-14 17:05:355 INFO  HomePage :46 - topMenu
+2023-05-14 17:05:928 INFO  DesktopPage :115 - select Position By AtoZ
+2023-05-14 17:05:527 INFO  DesktopPage :120 - click on product HPLP3065
+2023-05-14 17:05:635 INFO  HomePage :59 - mouse hover on desktop link and click
+2023-05-14 17:05:853 INFO  HomePage :46 - topMenu
+2023-05-14 17:05:273 INFO  DesktopPage :115 - select Position By AtoZ
+2023-05-14 17:05:930 INFO  DesktopPage :120 - click on product HPLP3065
+2023-05-14 21:05:295 INFO  HomePage :59 - mouse hover on desktop link and click
+2023-05-14 21:05:580 INFO  HomePage :46 - topMenu
+2023-05-14 21:05:65 INFO  DesktopPage :115 - select Position By AtoZ
+2023-05-14 21:05:678 INFO  DesktopPage :120 - click on product HPLP3065
+2023-05-14 21:05:56 INFO  HomePage :59 - mouse hover on desktop link and click
+2023-05-14 21:05:263 INFO  HomePage :46 - topMenu
+2023-05-14 21:05:551 INFO  DesktopPage :115 - select Position By AtoZ
+2023-05-14 21:05:117 INFO  DesktopPage :120 - click on product HPLP3065
+2023-05-14 22:05:407 INFO  HomePage :59 - mouse hover on desktop link and click
+2023-05-14 22:05:608 INFO  HomePage :46 - topMenu
+2023-05-14 22:05:731 INFO  DesktopPage :115 - select Position By AtoZ
+2023-05-14 22:05:389 INFO  DesktopPage :163 - click on add to cart
+2023-05-14 22:05:738 INFO  HomePage :59 - mouse hover on desktop link and click
+2023-05-14 22:05:965 INFO  HomePage :46 - topMenu
+2023-05-14 22:05:362 INFO  DesktopPage :115 - select Position By AtoZ
+2023-05-14 22:05:40 INFO  DesktopPage :163 - click on add to cart
+2023-05-14 22:05:235 INFO  HomePage :59 - mouse hover on desktop link and click
+2023-05-14 22:05:431 INFO  HomePage :46 - topMenu
+2023-05-14 22:05:300 INFO  DesktopPage :115 - select Position By AtoZ
+2023-05-14 22:05:57 INFO  DesktopPage :163 - click on add to cart
+2023-05-15 21:05:666 INFO  HomePage :59 - mouse hover on desktop link and click
+2023-05-15 21:05:870 INFO  HomePage :46 - topMenu
+2023-05-15 21:05:275 INFO  DesktopPage :115 - select Position By AtoZ
+2023-05-15 21:05:918 INFO  DesktopPage :120 - click on product HPLP3065
+2023-05-15 21:05:782 INFO  DesktopPage :125 - get Text HPLP3065
+2023-05-15 21:05:844 INFO  DesktopPage :130 - select date from Calender
+2023-05-15 21:05:302 INFO  DesktopPage :158 -  enter Quantity[[ChromeDriver: chrome on WINDOWS (602fdafa7f278dd67d3d3f36f61fd8b2)] -> xpath: //input[@id='input-quantity']]
+2023-05-15 21:05:394 INFO  DesktopPage :163 - click on add to cart
+2023-05-15 21:05:480 INFO  DesktopPage :168 - get success text
+2023-05-15 21:05:865 INFO  DesktopPage :173 - click on shopping cart
+2023-05-15 21:05:456 INFO  HomePage :59 - mouse hover on desktop link and click
+2023-05-15 21:05:651 INFO  HomePage :46 - topMenu
+2023-05-15 21:05:789 INFO  DesktopPage :115 - select Position By AtoZ
+2023-05-15 21:05:410 INFO  DesktopPage :120 - click on product HPLP3065
+2023-05-15 21:05:179 INFO  DesktopPage :125 - get Text HPLP3065
+2023-05-15 21:05:233 INFO  DesktopPage :130 - select date from Calender
+2023-05-15 21:05:607 INFO  DesktopPage :158 -  enter Quantity[[ChromeDriver: chrome on WINDOWS (27ade5f91b8477e72cd04510977acda9)] -> xpath: //input[@id='input-quantity']]
+2023-05-15 21:05:697 INFO  DesktopPage :163 - click on add to cart
+2023-05-15 21:05:785 INFO  DesktopPage :168 - get success text
+2023-05-15 21:05:156 INFO  DesktopPage :173 - click on shopping cart
+2023-05-15 21:05:935 INFO  DesktopPage :178 - get shopping cart text
+2023-05-15 21:05:990 INFO  DesktopPage :183 - get product name HPLP3065Text
+2023-05-15 21:05:20 INFO  DesktopPage :188 - verify delivery date
+2023-05-15 21:05:52 INFO  DesktopPage :193 - verify model product21
+2023-05-15 21:05:87 INFO  DesktopPage :198 - Verify total
+2023-05-15 23:05:728 INFO  LaptopsAndNotebooksPage :129 - Mouse hover on laptop and notebooks tab and click
+2023-05-15 23:05:39 INFO  LaptopsAndNotebooksPage :133 - click on show all laptops and notebooks
+2023-05-15 23:05:72 INFO  LaptopsAndNotebooksPage :137 - select sort by high to low
+2023-05-15 23:05:976 INFO  LaptopsAndNotebooksPage :141 - Verify the Product price will arrange in High to Low order
+2023-05-15 23:05:877 INFO  LaptopsAndNotebooksPage :129 - Mouse hover on laptop and notebooks tab and click
+2023-05-15 23:05:150 INFO  LaptopsAndNotebooksPage :133 - click on show all laptops and notebooks
+2023-05-15 23:05:120 INFO  LaptopsAndNotebooksPage :137 - select sort by high to low
+2023-05-15 23:05:07 INFO  LaptopsAndNotebooksPage :129 - Mouse hover on laptop and notebooks tab and click
+2023-05-15 23:05:259 INFO  LaptopsAndNotebooksPage :133 - click on show all laptops and notebooks
+2023-05-15 23:05:313 INFO  LaptopsAndNotebooksPage :137 - select sort by high to low
+2023-05-15 23:05:296 INFO  LaptopsAndNotebooksPage :167 - click on Macbook
+2023-05-15 23:05:526 INFO  LaptopsAndNotebooksPage :171 - verify text Macbook
+2023-05-15 23:05:652 INFO  LaptopsAndNotebooksPage :175 - click on add to cart
+2023-05-15 23:05:10 INFO  LaptopsAndNotebooksPage :179 - get added Macbook text
+2023-05-15 23:05:333 INFO  LaptopsAndNotebooksPage :183 - click on shopping cart
+2023-05-15 23:05:998 INFO  LaptopsAndNotebooksPage :187 - Verify text shopping cart 
+2023-05-15 23:05:83 INFO  LaptopsAndNotebooksPage :191 - Verify product name Macbook
+2023-05-15 23:05:175 INFO  LaptopsAndNotebooksPage :195 - change quantity
+2023-05-16 13:05:677 INFO  LaptopsAndNotebooksPage :129 - Mouse hover on laptop and notebooks tab and click
+2023-05-16 13:05:929 INFO  LaptopsAndNotebooksPage :133 - click on show all laptops and notebooks
+2023-05-16 13:05:875 INFO  LaptopsAndNotebooksPage :137 - select sort by high to low
+2023-05-16 13:05:606 INFO  LaptopsAndNotebooksPage :167 - click on Macbook
+2023-05-16 13:05:864 INFO  LaptopsAndNotebooksPage :171 - verify text Macbook
+2023-05-16 13:05:962 INFO  LaptopsAndNotebooksPage :175 - click on add to cart
+2023-05-16 13:05:152 INFO  LaptopsAndNotebooksPage :179 - get added Macbook text
+2023-05-16 13:05:488 INFO  LaptopsAndNotebooksPage :183 - click on shopping cart
+2023-05-16 13:05:104 INFO  LaptopsAndNotebooksPage :187 - Verify text shopping cart 
+2023-05-16 13:05:192 INFO  LaptopsAndNotebooksPage :191 - Verify product name Macbook
+2023-05-16 13:05:279 INFO  LaptopsAndNotebooksPage :195 - change quantity
+2023-05-16 13:05:507 INFO  LaptopsAndNotebooksPage :128 - Mouse hover on laptop and notebooks tab and click
+2023-05-16 13:05:779 INFO  LaptopsAndNotebooksPage :132 - click on show all laptops and notebooks
+2023-05-16 13:05:753 INFO  LaptopsAndNotebooksPage :136 - select sort by high to low
+2023-05-16 13:05:430 INFO  LaptopsAndNotebooksPage :166 - click on Macbook
+2023-05-16 13:05:667 INFO  LaptopsAndNotebooksPage :170 - verify text Macbook
+2023-05-16 13:05:773 INFO  LaptopsAndNotebooksPage :174 - click on add to cart
+2023-05-16 13:05:104 INFO  LaptopsAndNotebooksPage :178 - get added Macbook text
+2023-05-16 13:05:367 INFO  LaptopsAndNotebooksPage :182 - click on shopping cart
+2023-05-16 13:05:138 INFO  LaptopsAndNotebooksPage :186 - Verify text shopping cart 
+2023-05-16 13:05:229 INFO  LaptopsAndNotebooksPage :190 - Verify product name Macbook
+2023-05-16 13:05:294 INFO  LaptopsAndNotebooksPage :194 - change quantity
+2023-05-16 13:05:129 INFO  LaptopsAndNotebooksPage :128 - Mouse hover on laptop and notebooks tab and click
+2023-05-16 13:05:373 INFO  LaptopsAndNotebooksPage :132 - click on show all laptops and notebooks
+2023-05-16 13:05:356 INFO  LaptopsAndNotebooksPage :136 - select sort by high to low
+2023-05-16 13:05:64 INFO  LaptopsAndNotebooksPage :166 - click on Macbook
+2023-05-16 13:05:388 INFO  LaptopsAndNotebooksPage :170 - verify text Macbook
+2023-05-16 13:05:476 INFO  LaptopsAndNotebooksPage :174 - click on add to cart
+2023-05-16 13:05:662 INFO  LaptopsAndNotebooksPage :178 - get added Macbook text
+2023-05-16 13:05:985 INFO  LaptopsAndNotebooksPage :182 - click on shopping cart
+2023-05-16 13:05:726 INFO  LaptopsAndNotebooksPage :186 - Verify text shopping cart 
+2023-05-16 13:05:801 INFO  LaptopsAndNotebooksPage :190 - Verify product name Macbook
+2023-05-16 13:05:844 INFO  LaptopsAndNotebooksPage :194 - change quantity
